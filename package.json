@@ -1,0 +1,20 @@
+{
+  "name": "sentiments_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "custom-env": "^2.0.1",
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {
+    "node-nlp": "^4.22.1",
+    "sentiment": "^5.0.2"
+  }
+}
